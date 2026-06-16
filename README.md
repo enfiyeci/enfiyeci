@@ -12,8 +12,9 @@ Engineering senior at the **University of Pennsylvania** (Networked & Social Sys
 | Project | What it is |
 |---------|------------|
 | [amp3-poker-ai](https://github.com/enfiyeci/amp3-poker-ai) | 6-player No-Limit Hold'em AI: LSTM opponent modeling + actor-critic RL, Deep CFR, and NFSP (Penn senior design) |
-| [pool-foosball-league](https://github.com/enfiyeci/pool-foosball-league) | Elo-rated match tracker with a Firebase backend — [live demo](https://enfiyeci.github.io/pool-foosball-league/) |
 | [peak_detection_update](https://github.com/enfiyeci/peak_detection_update) | Peak detection for political event time series, built for Penn's Machine Learning for Peace project |
+
+Also on the side: [pool-foosball-league](https://github.com/enfiyeci/pool-foosball-league), an Elo-rated match tracker with a Firebase backend ([live demo](https://enfiyeci.github.io/pool-foosball-league/)).
 
 ### Toolbox
 
